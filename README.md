@@ -6,7 +6,7 @@
 **Full-Stack Developer · ML Engineer · Arabic NLP Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HADJADJ--DAOUD-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/daoud-dx)
-[![Email](https://img.shields.io/badge/Email-daoudhdj@gmail.com-D14836?style=flat&logo=gmail)](mailto:md_hadjadj@esi.dz) ,
+[![Email](https://img.shields.io/badge/Email-md__hadjadj@esi.dz-D14836?style=flat&logo=gmail)](mailto:md_hadjadj@esi.dz) ,
 
 </div>
 
